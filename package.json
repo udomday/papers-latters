@@ -1,5 +1,8 @@
 {
-  "name": "papers-letters",
+  "name": "udomday/papers-latters",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/udomday"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
