@@ -1,5 +1,5 @@
 {
-  "name": "udomday/papers-latters",
+  "name": "@udomday/papers-latters",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/udomday"
   },
